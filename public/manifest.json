@@ -1,6 +1,6 @@
 {
-  "short_name": "Mint Page",
-  "name": "Mint Page",
+  "short_name": "Mint Page77",
+  "name": "Mint Page777",
   "icons": [
     {
       "src": "logo.png",
@@ -11,5 +11,5 @@
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
-  "background_color": "#ff6161"
+  "background_color": "#ffffff"
 }
